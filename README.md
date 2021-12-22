@@ -1,2 +1,2 @@
 # git-exercise
-Hi
+Hi. Its raining
